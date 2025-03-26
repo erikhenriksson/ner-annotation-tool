@@ -4,7 +4,7 @@ Contains all configurable constants and settings.
 """
 
 # Application settings
-APP_TITLE = "EntityTagger"
+APP_TITLE = "NER Annotation Tool"
 TEXT_FILES_DIR = "text_files"
 ANNOTATIONS_DIR = "annotations"
 AUTO_SAVE_INTERVAL_MS = 2000  # Auto-save interval in milliseconds
